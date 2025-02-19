@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ThreadedNumberPrinter - JavaApplication64</title>
 </head>
 <body>
     <h1>ThreadedNumberPrinter - JavaApplication64</h1>
