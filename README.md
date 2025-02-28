@@ -15,7 +15,7 @@
 
   <h2>How to Run the Program</h2>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-username/ThreadedNumberPrinter.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/sifiso-chisa/ThreadedNumberPrinter.git</code></li>
         <li>Open the project in your preferred Java IDE.</li>
         <li>Run the <code>JavaApplication64</code> class.</li>
     </ol>
